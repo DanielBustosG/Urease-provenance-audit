@@ -1,0 +1,78 @@
+id,figure_S6_id,primary_document,short_label,journal,year,n_molecules,n_with_pAct,median_pAct,n_potent,primary_organisms
+DOC01,D01,10.1016/j.bmcl.2019.02.032,Bioorg. Med. Chem. Lett. 2019,Bioorg Med Chem Lett,2019.0,44,24,4.313,2,Sporosarcina pasteurii
+DOC02,D02,10.1016/j.bmcl.2017.02.022,Bioorg. Med. Chem. Lett. 2017,Bioorg Med Chem Lett,2017.0,40,34,4.757,10,Sporosarcina pasteurii
+DOC03,D03,10.1016/j.ejmech.2018.06.065,Eur. J. Med. Chem. 2018,Eur J Med Chem,2018.0,40,40,5.369,3,Helicobacter pylori
+DOC04,D05,10.1016/j.bmc.2018.07.003,Bioorg. Med. Chem. 2018,Bioorg Med Chem,2018.0,37,37,4.983,5,Helicobacter pylori
+DOC05,D04,10.1016/j.ejmech.2014.01.001,Eur. J. Med. Chem. 2014,Eur J Med Chem,2014.0,37,37,4.618,0,Canavalia ensiformis
+DOC06,D06,10.1016/j.ejmech.2017.03.070,Eur. J. Med. Chem. 2017,Eur J Med Chem,2017.0,34,34,4.196,1,Sporosarcina pasteurii
+DOC07,D07,CHEMBL1144858,ChEMBL doc. 2008,,2008.0,30,30,4.145,0,Canavalia ensiformis
+DOC08,D08,10.1016/j.ejmech.2010.08.015,Eur. J. Med. Chem. 2010,Eur J Med Chem,2010.0,29,29,4.301,0,Helicobacter pylori
+DOC09,D09,10.1016/j.ejmech.2013.03.016,Eur. J. Med. Chem. 2013,Eur J Med Chem,2013.0,28,28,3.132,1,Helicobacter pylori
+DOC10,D10,10.1016/j.bmc.2014.05.057,Bioorg. Med. Chem. 2014,Bioorg Med Chem,2014.0,27,27,4.532,0,Sporosarcina pasteurii
+DOC11,D11,10.1016/j.ejmech.2013.10.012,Eur. J. Med. Chem. 2013,Eur J Med Chem,2013.0,26,26,4.793,0,Canavalia ensiformis
+DOC12,D13,10.1016/j.bmc.2016.07.042,Bioorg. Med. Chem. 2016,Bioorg Med Chem,2016.0,25,25,5.199,0,Canavalia ensiformis
+DOC13,D14,10.1021/acs.jmedchem.6b00986,J. Med. Chem. 2016,J Med Chem,2016.0,25,25,5.065,3,Helicobacter pylori
+DOC14,D12,10.1021/acs.jmedchem.2c01799,J. Med. Chem. 2022,J Med Chem,2022.0,25,25,8.038,25,Proteus mirabilis / Sporosarcina pasteurii
+DOC15,D15,CHEMBL3352339,ChEMBL doc. 2014,,2014.0,24,24,4.542,0,Canavalia ensiformis
+DOC16,D16,CHEMBL5137004,ChEMBL doc. 2022,,2022.0,24,23,5.367,7,Canavalia ensiformis
+DOC17,D17,10.1016/j.bmc.2016.07.052,Bioorg. Med. Chem. 2016,Bioorg Med Chem,2016.0,23,23,4.058,1,Helicobacter pylori
+DOC18,D18,10.1111/cbdd.12297,DOI cbdd.12297,,,21,21,4.479,0,Canavalia ensiformis
+DOC19,D20,10.1016/j.bmc.2015.06.014,Bioorg. Med. Chem. 2015,Bioorg Med Chem,2015.0,21,21,4.188,0,Helicobacter pylori
+DOC20,D21,10.1016/j.ejmech.2013.07.047,Eur. J. Med. Chem. 2013,Eur J Med Chem,2013.0,21,21,5.138,3,Helicobacter pylori
+DOC21,D19,10.1016/j.bmcl.2018.08.025,Bioorg. Med. Chem. Lett. 2018,Bioorg Med Chem Lett,2018.0,21,20,4.602,1,Helicobacter pylori
+DOC22,D22,10.1016/j.bioorg.2015.10.005,DOI j.bioorg.2015.10.005,,2015.0,20,20,4.503,0,Sporosarcina pasteurii
+DOC23,D23,10.1016/j.bmc.2020.115759,Bioorg. Med. Chem. 2020,Bioorg Med Chem,2020.0,20,20,4.439,0,"Urease, unspecified origin"
+DOC24,D27,CHEMBL3600348,ChEMBL doc. 2015,,2015.0,20,19,4.072,0,Canavalia ensiformis
+DOC25,D28,CHEMBL3044957,ChEMBL doc. 2013,,2013.0,20,16,4.324,0,Canavalia ensiformis
+DOC26,D26,10.1016/j.ejmech.2018.09.074,Eur. J. Med. Chem. 2018,Eur J Med Chem,2018.0,20,20,4.903,1,Sporosarcina pasteurii
+DOC27,D25,10.1016/j.bmc.2015.10.017,Bioorg. Med. Chem. 2015,Bioorg Med Chem,2015.0,20,20,5.45,2,Canavalia ensiformis
+DOC28,D24,10.1016/j.bioorg.2016.03.010,DOI j.bioorg.2016.03.010,,2016.0,20,20,5.146,0,Canavalia ensiformis
+DOC29,D30,10.1016/j.bioorg.2015.06.004,DOI j.bioorg.2015.06.004,,2015.0,19,19,6.249,12,Canavalia ensiformis
+DOC30,D29,10.1016/j.bmc.2015.05.038,Bioorg. Med. Chem. 2015,Bioorg Med Chem,2015.0,19,19,4.574,0,Canavalia ensiformis
+DOC31,D31,CHEMBL3045259,ChEMBL doc. 2013,,2013.0,19,19,5.886,6,Canavalia ensiformis
+DOC32,D33,10.1016/j.ejmech.2011.09.009,Eur. J. Med. Chem. 2011,Eur J Med Chem,2011.0,18,18,6.367,18,Canavalia ensiformis
+DOC33,D32,10.1016/j.bmc.2017.11.028,Bioorg. Med. Chem. 2017,Bioorg Med Chem,2017.0,18,18,5.581,4,Canavalia ensiformis
+DOC34,D34,10.1021/ml500380f,ACS Med Chem Lett,ACS Med Chem Lett,,17,13,4.799,1,Sporosarcina pasteurii
+DOC35,D35,10.3109/14756366.2012.740477,DOI 14756366.2012.740477,,2012.0,16,11,4.345,0,Canavalia ensiformis
+DOC36,D36,10.1016/j.bmcl.2017.05.019,Bioorg. Med. Chem. Lett. 2017,Bioorg Med Chem Lett,2017.0,15,15,6.553,10,Canavalia ensiformis
+DOC37,D37,10.1016/j.bmcl.2022.129043,Bioorg. Med. Chem. Lett. 2022,Bioorg Med Chem Lett,2022.0,13,13,5.161,2,Helicobacter pylori
+DOC38,D38,CHEMBL1909545,ChEMBL doc. 2011,,2011.0,13,13,6.387,13,Canavalia ensiformis
+DOC39,D41,10.1016/j.ejmech.2022.114273,Eur. J. Med. Chem. 2022,Eur J Med Chem,2022.0,12,10,5.989,5,"Canavalia ensiformis / Helicobacter pylori / Urease, unspecified origin"
+DOC40,D43,10.1016/j.bioorg.2015.12.007,DOI j.bioorg.2015.12.007,,2015.0,12,12,4.522,0,Canavalia ensiformis
+DOC41,D39,10.1021/jm800570q,J. Med. Chem.,J Med Chem,,12,12,3.79,1,"Proteus vulgaris / Sporosarcina pasteurii / Urease, unspecified origin"
+DOC42,D40,CHEMBL4118270,ChEMBL doc. 2018,,2018.0,12,12,4.725,0,Helicobacter pylori
+DOC43,D42,10.1016/j.ejmech.2015.08.011,Eur. J. Med. Chem. 2015,Eur J Med Chem,2015.0,12,12,5.333,5,Canavalia ensiformis
+DOC44,D44,10.1016/j.bioorg.2013.10.001,DOI j.bioorg.2013.10.001,,2013.0,11,11,6.328,9,Canavalia ensiformis
+DOC45,D47,CHEMBL1275315,ChEMBL doc. 2010,,2010.0,10,10,3.476,0,Canavalia ensiformis
+DOC46,D48,CHEMBL5241112,ChEMBL doc. 2022,,2022.0,10,10,4.246,0,Canavalia ensiformis
+DOC47,D46,10.1021/jm100340m,J. Med. Chem.,J Med Chem,,10,10,4.622,0,Proteus vulgaris
+DOC48,D45,CHEMBL2434823,ChEMBL doc. 2013,,2013.0,10,1,3.41,0,Canavalia ensiformis
+DOC49,,10.1016/j.ejmech.2023.115528,Eur. J. Med. Chem. 2023,Eur J Med Chem,2023.0,9,9,4.605,0,Sporosarcina pasteurii
+DOC50,,10.1039/d3md00645j,RSC Med Chem,RSC Med Chem,,9,9,3.652,0,"Urease, unspecified origin"
+DOC51,,10.1111/cbdd.12675,DOI cbdd.12675,,,9,9,7.081,9,Canavalia ensiformis
+DOC52,,10.1111/cbdd.12379,DOI cbdd.12379,,,8,8,5.465,1,Canavalia ensiformis
+DOC53,,CHEMBL3817741,ChEMBL doc. 2016,,2016.0,7,7,5.939,3,Canavalia ensiformis
+DOC54,,10.1016/j.bmc.2019.115123,Bioorg. Med. Chem. 2019,Bioorg Med Chem,2019.0,7,7,4.608,0,Canavalia ensiformis
+DOC55,,10.1080/14756360802188420,DOI 14756360802188420,,,7,7,4.48,0,Canavalia ensiformis
+DOC56,,10.1021/acs.jmedchem.0c01143,J. Med. Chem. 2020,J Med Chem,2020.0,7,7,5.852,1,Sporosarcina pasteurii
+DOC57,,10.1080/14756360801945598,DOI 14756360801945598,,,7,7,4.488,0,Canavalia ensiformis
+DOC58,,10.1016/j.bmcl.2007.07.085,Bioorg. Med. Chem. Lett. 2007,Bioorg Med Chem Lett,2007.0,7,5,6.907,5,Canavalia ensiformis
+DOC59,,10.1016/j.bioorg.2016.04.005,DOI j.bioorg.2016.04.005,,2016.0,6,6,4.521,0,Sporosarcina pasteurii
+DOC60,,10.3109/14756360903389864,DOI 14756360903389864,,,6,6,4.609,0,Canavalia ensiformis
+DOC61,,CHEMBL4422682,ChEMBL doc. 2019,,2019.0,5,5,4.941,1,Canavalia ensiformis
+DOC62,,CHEMBL3621141,ChEMBL doc. 2015,,2015.0,4,1,3.536,0,Canavalia ensiformis
+DOC63,,10.3109/14756360903179385,DOI 14756360903179385,,,3,3,4.421,0,Canavalia ensiformis
+DOC64,,CHEMBL3045895,ChEMBL doc. 2012,,2012.0,3,3,4.35,0,Canavalia ensiformis
+DOC65,,10.1039/d2md00076h,RSC Med Chem,RSC Med Chem,,2,2,8.327,2,Escherichia coli
+DOC66,,CHEMBL3120147,ChEMBL doc. 2014,,2014.0,2,0,,0,Canavalia ensiformis
+DOC67,,CHEMBL1140524,ChEMBL doc. 2007,,2007.0,2,2,6.948,2,Canavalia ensiformis
+DOC68,,10.1016/j.bmc.2023.117512,Bioorg. Med. Chem. 2023,Bioorg Med Chem,2023.0,2,2,5.547,1,Sporosarcina pasteurii
+DOC69,,10.3109/14756366.2010.528415,DOI 14756366.2010.528415,,2010.0,2,2,4.58,0,Canavalia ensiformis
+DOC70,,10.1016/j.ejmech.2019.04.025,Eur. J. Med. Chem. 2019,Eur J Med Chem,2019.0,1,1,5.081,0,"Urease, unspecified origin"
+DOC71,,10.1016/j.bmcl.2008.10.007,Bioorg. Med. Chem. Lett. 2008,Bioorg Med Chem Lett,2008.0,1,1,5.959,0,"Urease, unspecified origin"
+DOC72,,10.1080/14756360409162452,DOI 14756360409162452,,,1,1,4.04,0,Canavalia ensiformis
+DOC73,,CHEMBL1140057,ChEMBL doc. 2008,,2008.0,1,1,6.102,1,Helicobacter pylori
+DOC74,,CHEMBL1158139,ChEMBL doc. 2006,,2006.0,1,1,3.897,0,Canavalia ensiformis
+DOC75,,CHEMBL2417515,ChEMBL doc. 2013,,2013.0,1,1,4.548,0,Canavalia ensiformis
+DOC76,,CHEMBL4385627,ChEMBL doc. 2019,,2019.0,1,1,6.446,1,Canavalia ensiformis
+DOC77,,CHEMBL4385639,ChEMBL doc. 2019,,2019.0,1,1,4.642,0,Canavalia ensiformis

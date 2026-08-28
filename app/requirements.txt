@@ -1,0 +1,12 @@
+# Pinned to the environment the frozen bundle was built and validated in.
+# cascade_bundle.joblib was pickled by scikit-learn 1.9.0; loading it under a
+# different MINOR version may warn or fail. Keep the scikit-learn pin exact.
+streamlit==1.60.0
+scikit-learn==1.9.0
+rdkit==2026.03.4
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.0
+joblib==1.5.3
+pillow==12.3.0
+pytest==9.1.1
