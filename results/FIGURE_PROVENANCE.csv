@@ -1,0 +1,14 @@
+figure,output_file,script,input_files
+Figure 1,fig1_dataset.png,scripts/06_figure1_dataset.py,records_curated.parquet; uiref_curated.parquet
+Figure 2,fig2_provenance_floor.png,scripts/07_figure2_provenance_floor.py,records_curated.parquet; tableS5_provenance_floor.csv
+Figure 3,fig3_collapse.png,scripts/08_figure3_collapse.py,tableS6_pairwise_designs.csv; tableS7_matching_smd.csv; tableS8_yscrambling.csv
+Figure 4,fig4_chemspace.png,scripts/09_figure4_chemspace.py,collection_CLUE.parquet; collection_COCONUT.parquet; collection_DSSTox.parquet; tableS12_neighbourhood_enrichment.csv; tableS14_cluster_ami.csv; uiref_curated.parquet
+Figure 5,fig5_scaffolds_alerts.png,scripts/10_figure5_scaffolds_alerts.py,tableS16_scaffolds.csv; tableS18_alerts_by_collection.csv; tableS20_motif_variance_by_document.csv; tableS21_motif_potency_or.csv
+Figure 6,fig6_honest_predictor.png,scripts/05_figure6.py,tableS24_cascade_benchmark.csv; tableS25_calibration.csv; tableS26_applicability_domain.csv; tableS27_conformal_coverage.csv; tableS29_example_compound_trace.csv; uiref_curated.parquet
+Figure S1,figS1_curation.png,scripts/11_figureS1_curation.py,records_curated.parquet; tableS1_curation_flow.csv
+Figure S2,figS2_benchmark_detail.png,scripts/12_figureS2_benchmark.py,tableS24_cascade_benchmark.csv
+Figure S3,figS3_yscrambling.png,scripts/13_figureS3_yscrambling.py,tableS8_yscrambling.csv
+Figure S4,figS4_shap.png,scripts/14_figureS4_shap.py,tableS10_shap_comparison.csv; tableS11_shap_rank_correlations.csv
+Figure S5,figS5_leakage.png,scripts/15_figureS5_leakage.py,tableS9_leakage.csv
+Figure S6,figS6_alerts_by_document.png,scripts/16_figureS6_alerts_by_document.py,records_curated.parquet; tableS19_alerts_by_document.csv
+Figure S7,figS7_conformal_detail.png,scripts/17_figureS7_conformal.py,tableS27_conformal_coverage.csv
